@@ -1,0 +1,2 @@
+alert ("Note :I have taken help from Internet .... I tried to make the clone of a game 👍 ... Dont think that its copied , there's a lot of differnece in code in  this and orignal one !")
+alert ("This is basically made by Micavi Director, I have tried to make its clone 👍")
